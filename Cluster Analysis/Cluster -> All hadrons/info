@@ -1,0 +1,3 @@
+This folder contains the data for cluster decaying to all hadrons.
+The simulation is run for -N 10 events.
+data.csv file stores the training data for further analysis.
