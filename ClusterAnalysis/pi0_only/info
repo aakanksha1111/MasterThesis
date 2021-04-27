@@ -1,0 +1,4 @@
+This folder has cluster decaying to pi0 + pi0
+To reduce the size of csv file for higher number of events, we have directly edited the Foo.cc code in Herwig to provide us direct decay to pi0.
+The simulation run for -N 100 events.
+'new.csv' saves the training data.
